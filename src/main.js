@@ -2,7 +2,7 @@ import './style.css';
 import DataTable from 'datatables.net-dt';
 import 'datatables.net-dt/css/dataTables.dataTables.css';
 
-const API_URL = "https://jsonplaceholder.typicode.com/users";
+const API_URL = "https://jsonplaceholder.typicode.com/posts";
 
 async function cargarDatos() {
   try {
