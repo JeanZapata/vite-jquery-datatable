@@ -40,5 +40,4 @@ async function cargarDatos() {
     `;
   }
 }
-
 cargarDatos();
